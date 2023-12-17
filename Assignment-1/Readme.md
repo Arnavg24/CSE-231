@@ -65,13 +65,4 @@
 
 ---
 
-## Test Cases:
 
-### Q1:
-- Flow of expected output is specified.
-
-### Q2:
-- Test output based on assumptions provided.
-
-### Q3:
-#### Input.txt
