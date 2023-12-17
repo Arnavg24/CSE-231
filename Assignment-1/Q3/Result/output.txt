@@ -1,0 +1,4 @@
+Result is 3
+Result is 6
+Result is Both numbers are equal to 2
+Result is unknown operation
